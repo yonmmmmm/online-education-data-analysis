@@ -1,0 +1,10 @@
+*.csv
+*.zip
+*.xlsx
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
